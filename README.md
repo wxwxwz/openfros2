@@ -5,7 +5,7 @@ fros固件openwrt框架源码，通过该源码编译出来的固件可以安装
 
 1. clone源码
 ```
-git clone https://github.com/destan19/openfros.git
+git clone https://github.com/wxwxwz/openfros.git
 ```
 2. 下载安装第三方包(feeds)
 ```
